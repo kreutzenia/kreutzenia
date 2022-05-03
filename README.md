@@ -42,4 +42,4 @@ Algunas frases autorefrenciales :
 Sí soy genial ...y Tú tambien.
 
 
-![Cat](https://raw.githubusercontent.com/paulmelnikow/zsh-startup-timer/3923c60fc66d4223ccf063d169ccf2ff167b1270/cat.png)
+![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
