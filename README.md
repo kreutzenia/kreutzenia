@@ -3,7 +3,9 @@
 Algunas frases autorefrenciales :
 
 🌱 siempre se me ocurren cosas muy buenas ...
+
 👯 Amo el trabajo en equipo ..
+
 🤔 Me estas leyendo ahora, te quiero robar una sonrisa .
 😄 Pronouns: kreutzenia 
 💡 Creando nuevos retos .
