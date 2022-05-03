@@ -1,5 +1,5 @@
 ### Hola Soy Kenya  👋 Bienvenido(a)
-
+...js
 const thai = {
   pronouns: "she" | "her",
   code: [ HTML, CSS,  Python, Jquery],
@@ -7,7 +7,7 @@ const thai = {
   Base Date: { sqlpostres },
  challenge: "Hago lindas Webs"
 }
-
+...
 Algunas frases autorefrenciales :
 
 🌱 siempre se me ocurren cosas muy buenas ...
