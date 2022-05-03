@@ -19,7 +19,11 @@ const thai = {
 
 Algunas frases autorefrenciales :
 
-// Información Importante: Habilidades Blandas ?
+```javascript
+// // Información Importante: Habilidades Blandas ?
+
+```
+
 
 🌱 siempre se me ocurren cosas muy buenas ...
 
