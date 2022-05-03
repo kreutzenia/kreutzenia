@@ -42,4 +42,4 @@ Algunas frases autorefrenciales :
 Sí soy genial ...y Tú tambien.
 
 
-![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
