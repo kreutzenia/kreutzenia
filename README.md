@@ -42,4 +42,4 @@ Algunas frases autorefrenciales :
 Sí soy genial ...y Tú tambien.
 
 
-![Logo](https://intimacycodes.cl/wp-content/uploads/2022/05/logo-github.png)
+![Logo](![alt text](http://url/to/img.png))
