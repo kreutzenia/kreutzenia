@@ -54,7 +54,6 @@ Algunas frases autorefrenciales :
 Sí soy genial ...y Tú tambien.
 
 
-<a href="https://www.linkedin.com/in/kenyaflores-influencer/">   <img align="left" alt="Ankit's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/kreutzenia)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kenyaflores-influencer/)
